@@ -1,0 +1,8 @@
+C:\Users\jlope\documents\Projetos\dotnetcore\designpatterns\bin\Debug\netcoreapp1.1\designpatterns.deps.json
+C:\Users\jlope\documents\Projetos\dotnetcore\designpatterns\bin\Debug\netcoreapp1.1\designpatterns.runtimeconfig.json
+C:\Users\jlope\documents\Projetos\dotnetcore\designpatterns\bin\Debug\netcoreapp1.1\designpatterns.runtimeconfig.dev.json
+C:\Users\jlope\documents\Projetos\dotnetcore\designpatterns\obj\Debug\netcoreapp1.1\designpatterns.AssemblyInfo.cs
+C:\Users\jlope\documents\Projetos\dotnetcore\designpatterns\bin\Debug\netcoreapp1.1\designpatterns.dll
+C:\Users\jlope\documents\Projetos\dotnetcore\designpatterns\bin\Debug\netcoreapp1.1\designpatterns.pdb
+C:\Users\jlope\documents\Projetos\dotnetcore\designpatterns\obj\Debug\netcoreapp1.1\designpatterns.dll
+C:\Users\jlope\documents\Projetos\dotnetcore\designpatterns\obj\Debug\netcoreapp1.1\designpatterns.pdb
